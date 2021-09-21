@@ -1,0 +1,11 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^6.3.0",
+    "style-loader": "^3.2.1",
+    "webpack": "^5.53.0"
+  }
+}
