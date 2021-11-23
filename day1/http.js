@@ -1,7 +1,6 @@
 const http = require('http');
 const fs = require('fs');
 http.createServer((request, response)=>{
-  // console.log("a request");
   // response.end('i Node');
   const { url, method, headers} = request;
   if(url=='/' && method ==='GET'){
